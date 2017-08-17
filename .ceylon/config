@@ -8,4 +8,5 @@ fullyexportmavendependencies=false
 
 [compiler]
 suppresswarning=filenameNonAscii
+suppresswarning=deprecation
 suppresswarning=unusedDeclaration
